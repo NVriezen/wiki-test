@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+site_name: Zel Game Engine Documentation
+nav:
+    - Home: index.md
+    - Quick Start: quick-start.md
+theme: readthedocs
